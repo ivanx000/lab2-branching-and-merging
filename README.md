@@ -32,7 +32,7 @@ If you miss the lab and work on this after, you can use this URL though.
 
 # TASK 1: Your first branch
 
-- [ ] Create and checkout a new branch called `task_1` using either IntelliJ or the Terminal:
+- [X] Create and checkout a new branch called `task_1` using either IntelliJ or the Terminal:
   - IntelliJ: `Git -> New branch...`
   - Terminal: `git checkout -b task_1`
   - After, you can check `git status` or the Log tab of the Git tool window in IntelliJ to see
@@ -67,13 +67,13 @@ You should now see the changes that you made are now in the `main` branch.
 
 ---
 
-- [ ] Now, we'll want to clean up since we are done with our `task_1` branch.
+- [X] Now, we'll want to clean up since we are done with our `task_1` branch.
   - IntelliJ: `Git -> branches... -> task_1 -> Delete`
   - Terminal: `git branch -d task_1`
 
 ---
 
-- [ ] Last step! We'll push our changes to the remote repository to share our work! (As we did in Lab 1.)
+- [X] Last step! We'll push our changes to the remote repository to share our work! (As we did in Lab 1.)
   - we suggest you check off this last item, commit that change, and then push your code.
     Check GitHub to ensure you can see your changes.
 
